@@ -151,9 +151,7 @@ html{
 
 }
 
-.tip-divided p, .tip-total p{
-    width: 6rem;
-}
+
 
 .results span{
     color: hsl(184, 14%, 56%);
@@ -164,6 +162,7 @@ html{
 .result{
     font-size: 1.8rem;
     color: hsl(172, 67%, 45%);
+    width: auto;
 }
 
 .button-reset{
